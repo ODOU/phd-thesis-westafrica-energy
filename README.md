@@ -1,6 +1,6 @@
 # PhD Thesis Code — West African Energy System Dynamics Under Climate-Economy Scenarios at Horizon 2063
 
-This repository hosts the code, notebooks, and reproducible workflows accompanying the PhD thesis of **Thierry Odou** (WASCAL / Forschungszentrum Jülich IEK-3, defended 2026).
+This repository is the **central hub** for all code, notebooks, and reproducible workflows accompanying the PhD thesis of **Thierry Odou** (WASCAL / Forschungszentrum Jülich IEK-3, defended 2026). Every chapter lives in its own folder below; two chapters additionally link out to satellite repositories whose size or licence justifies a standalone home.
 
 > **Citation**
 > Odou, T. (2026). *West African Energy System Dynamics Under Climate-Economy Scenarios at Horizon 2063* [PhD thesis]. WASCAL Graduate School on Climate Change and Energy. https://github.com/ODOU/phd-thesis-westafrica-energy
