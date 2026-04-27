@@ -26,4 +26,6 @@ The ReEDS-2.0 West Africa fork (referenced from Ch. 3) retains its upstream **BS
 
 ## Contact
 
-Thierry Odou — `thierryodou@gmail.com`
+Thierry Odou
+- WASCAL: `odou.o@edu.wascal.org`
+- Personal: `thierryodou@gmail.com`
