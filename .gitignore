@@ -1,0 +1,37 @@
+# Data & results
+*.gdx
+*.nc
+*.h5
+*.hdf5
+*.parquet
+*.feather
+data/raw/
+data/processed/
+results/
+outputs/
+
+# Office & docx
+~$*
+*.docx#
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+*.key
+credentials.json
