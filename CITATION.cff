@@ -1,0 +1,67 @@
+cff-version: 1.2.0
+message: "If you use this thesis or its code, please cite the thesis (preferred-citation) and, where relevant, the chapter-specific satellite repositories listed in the README."
+title: "PhD Thesis Code — West African Energy System Dynamics Under Climate-Economy Scenarios at Horizon 2050"
+abstract: >
+  Reproducibility hub for the doctoral thesis "West African Energy System
+  Dynamics Under Climate-Economy Scenarios at Horizon 2050" (T. Odou, WASCAL
+  DRP-CCE, 2026). The repository organises code, notebooks and pointers to
+  satellite repositories that together implement the four chained
+  contributions of the thesis: a context-specific cooling-degree-day
+  framework, an SSP-driven ECOWAS electricity demand ensemble, a regionally
+  adapted ReEDS-2.0 capacity-expansion analysis, and the first spatially
+  explicit assessment of climate-change impacts on transmission ampacity in
+  West Africa.
+type: software
+authors:
+  - family-names: Odou
+    given-names: Thierry
+    affiliation: "West African Science Service Centre on Climate Change and Adapted Land Use (WASCAL), DRP Climate Change and Energy; Forschungszentrum Jülich IEK-3"
+    email: thierryodou@gmail.com
+license: MIT
+version: "1.0.0"
+date-released: "2026-05-04"
+repository-code: "https://github.com/ODOU/phd-thesis-westafrica-energy"
+url: "https://github.com/ODOU/phd-thesis-westafrica-energy"
+keywords:
+  - West Africa
+  - climate-energy nexus
+  - cooling degree days
+  - electricity demand projection
+  - capacity expansion
+  - ReEDS
+  - transmission ampacity
+  - dynamic line rating
+  - SSP scenarios
+  - ECOWAS
+  - WAPP
+  - carbon pricing
+  - reliability
+  - NEUE
+preferred-citation:
+  type: thesis
+  title: "West African Energy System Dynamics Under Climate-Economy Scenarios at Horizon 2050"
+  authors:
+    - family-names: Odou
+      given-names: Thierry
+      affiliation: "WASCAL DRP-CCE / Forschungszentrum Jülich IEK-3"
+  thesis-type: "PhD thesis"
+  institution:
+    name: "West African Science Service Centre on Climate Change and Adapted Land Use (WASCAL) — Doctoral Research Programme on Climate Change and Energy"
+    city: Niamey
+    country: NE
+  year: 2026
+  url: "https://github.com/ODOU/phd-thesis-westafrica-energy"
+references:
+  - type: software
+    title: "Climate change impacts on transmission line ampacity in West Africa — analysis code"
+    authors:
+      - family-names: Odou
+        given-names: Thierry
+    url: "https://github.com/ODOU/ampacity-westafrica-climate"
+    license: MIT
+  - type: software
+    title: "Cooling Degree Days under GWL and SSP scenarios in West Africa — analysis code"
+    authors:
+      - family-names: Odou
+        given-names: Thierry
+    url: "https://github.com/ODOU/Cooling-Degree-Day-in-West-Africa"
